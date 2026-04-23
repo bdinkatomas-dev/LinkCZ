@@ -41,4 +41,4 @@ It is designed as a learning project and a foundation for scalable social apps.
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/your-username/linkcz.git
+git clone https://github.com/bdinkatomas-dev/LinkCZ.git
